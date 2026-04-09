@@ -1,0 +1,8 @@
+OpenCV: 
+
+conda install -c conda-forge opencv
+
+Check online for instructions if your operating system didn't accept the previous command. 
+
+
+pip install opencv-contrib-python --user #use this if sift = cv2.xfeatures2d.SIFT_create() doesn't work
